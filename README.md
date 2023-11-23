@@ -5,7 +5,7 @@
 ####  :wave: Hi, I'm JungMin Noh
 
 <hr/>
- I'm a Web Developer from South Korea 🇰🇷, 27 years old.
+ I'm a Web Developer from South Korea, 27 years old.
 <br/>
  <hr/>
   
