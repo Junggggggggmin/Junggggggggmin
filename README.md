@@ -5,7 +5,7 @@
 ####  :wave: Hi, I'm JungMin Noh
 
 <hr/>
- I'm a Web Developer from South Korea, 27 years old.
+ 💻I'm a Web Developer from South Korea, 27 years old.
 <br/>
  <hr/>
   
@@ -18,6 +18,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon aws&logoColor=white">
 <img src="https://img.shields.io/badge/intellijidea-2C2255?style=flat-square&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-1D63ED?style=flat-square&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 </div>
    <br/>
